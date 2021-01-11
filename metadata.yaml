@@ -1,0 +1,26 @@
+_repo: Die-irdische-Unsterblichkeit-Roman_64133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jansen, Werner
+    birthdate: 1890
+    deathdate: 1943
+    gutenberg_agent_id: '52764'
+    url: http://www.gutenberg.org/2009/agents/52764
+    wikipedia: https://de.wikipedia.org/wiki/Werner_Jansen
+description: ''
+gutenberg_issued: '2020-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64133'
+  lccn: '25009926'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- 20th century'
+- GITenberg
+title: 'Die irdische Unsterblichkeit: Roman'
+url: http://www.gutenberg.org/ebooks/64133
